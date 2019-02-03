@@ -1,2 +1,0 @@
-2018-12-17 22:20:15,367 [INFO @ script_host.py:setup:68] 4013 - install import hook/path
-2018-12-17 22:20:15,367 [INFO @ script_host.py:setup:73] 4013 - redirect sys.stdout and sys.stderr
